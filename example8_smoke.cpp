@@ -3,6 +3,7 @@
 #include <vector>
 #include <functional>
 #include <algorithm>
+#include <string>  // added to compile in Visual Studio 2019
 using namespace std;
 
 //

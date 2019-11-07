@@ -53,6 +53,7 @@
 #include <thread>
 #include <numeric>
 #include <algorithm>
+#include <functional>  // needed to compile in Visual Studio 2019
 
 
 
